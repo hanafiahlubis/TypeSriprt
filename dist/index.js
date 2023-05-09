@@ -45,7 +45,7 @@ function greet(person, date) {
 }
 greet("Maddison", new Date());
 function getFavoriteNumber() {
-    return "26";
+    return 26;
 }
 console.log(getFavoriteNumber());
 function pepek(person, date) {
